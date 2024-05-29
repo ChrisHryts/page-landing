@@ -5,7 +5,6 @@
 
 <p align="center">
   <img width="412" src="./for_readMe/1.png">
-  <p>
   <img width="412" src="./for_readMe/2.png">
 </p>
 
