@@ -4,8 +4,8 @@
 - [MOCKUP](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212/)
 
 <p align="center">
-  <img width="412" src="./for_readMe/1.png">
-  <img width="412" src="./for_readMe/2.png">
+  <img width="450" src="./for_readMe/1.png">
+  <img width="450" src="./for_readMe/2.png">
 </p>
 
 This project involves creating a responsive landing page using HTML, SCSS (Sassy CSS) and the BEM (Block Element Modifier) methodology.
