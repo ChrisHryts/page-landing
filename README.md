@@ -1,10 +1,11 @@
 #  Welcome to The Bang & Olufsen Landing Page repository!
 
 - [DEMO LINK](https://chrishryts.github.io/page-landing/)
-- [MOCKUP] (https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
+- [MOCKUP](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212/)
 
 <p align="center">
   <img width="412" src="./for_readMe/1.png">
+  <p>
   <img width="412" src="./for_readMe/2.png">
 </p>
 
